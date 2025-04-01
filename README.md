@@ -12,7 +12,7 @@ Explore the world of car rentals with the **Car Rental System**, a Java-based co
 
 ## Getting Started
 
-1. **Clone the Repo**: `
+1. **Clone the Repo**: git clone https://github.com/Saffiya-7/car-rental-system.git`
 ## Contributions Welcome! 🎉
 
 Contribute to the project's growth. Open issues, submit pull requests, and collaborate with the community.
